@@ -8,3 +8,4 @@
 /.vs/Started/v16/.suo
 /.vs/Started/config/applicationhost.config
 /node_modules
+*.suo

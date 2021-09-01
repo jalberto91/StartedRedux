@@ -6,6 +6,8 @@ store.dispatch(addRecipe('Pancake'));
 store.dispatch(addIngredient('Pancake', 'Eggs', 3));
 window.store = store;
 
+//comentario de feature1
+
 ////import { createStore } from 'redux';
 
 ////const initialState = {

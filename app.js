@@ -60,4 +60,6 @@ window.store = store;
 
 //console.log("Redux started");
 
+//linea desde gitHub
+
 //linea desde local

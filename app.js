@@ -65,3 +65,5 @@ window.store = store;
 //linea desde local
 
 //linea 1 desde rama2 local
+
+//agrego esta linea desde master local

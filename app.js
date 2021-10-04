@@ -59,3 +59,5 @@ window.store = store;
 //setInterval(() => store.dispatch({ type: 'INC' }), 500);
 
 //console.log("Redux started");
+
+//linea desde gitHub

@@ -71,3 +71,5 @@ window.store = store;
 
 
 //agrego esta lina desde rama2 local
+
+//agregrego linea desde vs code en la 75 local

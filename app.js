@@ -63,3 +63,5 @@ window.store = store;
 //linea desde gitHub
 
 //linea desde local
+
+//linea 1 desde rama2 local

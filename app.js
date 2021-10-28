@@ -64,3 +64,5 @@ window.store = store;
 
 //omentario desde local 2
 //comentario en la 66 desde local
+//omentario desde local y remota en la 65
+//comentario desde remota en la 66

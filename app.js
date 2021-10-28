@@ -62,4 +62,4 @@ window.store = store;
 
 //console.log("Redux started");
 
-//omentario desde local
+//omentario desde local 2

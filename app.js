@@ -62,4 +62,5 @@ window.store = store;
 
 //console.log("Redux started");
 
-//omentario desde local
+//omentario desde local y remota en la 65
+//comentario desde remota en la 66
